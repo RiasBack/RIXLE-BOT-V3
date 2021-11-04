@@ -1,5 +1,5 @@
 userbot = {
- owner: [ "6281261324817", "62895-6229-34562" ],
+ owner: [ "6287820239077", "" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
@@ -32,8 +32,8 @@ userbot = {
    eror: "Sepertinya Eror",
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU',
-   packname: "I S O X   B O T",
-   author: 'Arifi Razzaq',
+   packname: "ArakTuak Bot",
+   author: 'ArakTuak',
     setting: {
     admin: "only admin",
     group: "only group",
